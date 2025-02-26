@@ -1,20 +1,7 @@
-# Starlight OS 
-An OS for CC: Tweaked based on Unix/Linux
+# Starlight OS Dev branch
+Dev branch for Starlight OS
 
 ---
-### Contributors
+# INFO
 
-[Astronand](https://github.com/ASTRONAND)
-
-[Huntabadday](https://github.com/HuntaBadday)
-
-[Ryan T](https://github.com/Ryan-Te)
-
-[Minecartchris](https://github.com/minecartchris)
-
-[suboct / yabastar](https://github.com/yabastar0)
-
----
-### Legal
-
-Check the "legal" folder. idk what to say to you... 
+use tools/SLCompiler.lua to compile and ship new version.
